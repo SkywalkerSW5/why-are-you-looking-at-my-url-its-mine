@@ -1,1 +1,1 @@
-echo "Thanks to me"
+echo "Thanks to Kent, "
